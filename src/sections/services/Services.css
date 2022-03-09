@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Allura:wght@400&family=Montserrat:wght@100;200;300;400;500;700;900&family=Raleway:wght@200;400&display=swap");
+
+#services {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#services-header {
+  width: 100%;
+  height: 85vh;
+  position: relative;
+}
+
+#service-head-image {
+  width: 100%;
+  height: 100%;
+}
+
+#service-dark-layer {
+  background-color: black;
+  opacity: 0.3;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#section-body {
+  width: 70%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5rem;
+}
+
+.service-list {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5rem;
+}
+
+.service-list h3 {
+  font-family: "Allura", sans-serif;
+  font-size: 64px;
+  width: 100%;
+  text-align: left;
+}
+
+#manicures {
+  justify-content: flex-start;
+}
+
+#pedicures {
+  justify-content: flex-end;
+}
+
+#pedicures h3 {
+  text-align: right;
+}
+
+.service {
+  background-color: #ebcdd5;
+  padding: 1rem;
+  margin: 2rem;
+  border-radius: 16px;
+}
+
+.service div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.name {
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+.price {
+  font-size: 18px;
+  margin: 0;
+}
+
+.service-text {
+  margin: 0;
+}
+
+.btn.btn-primary.book {
+  background-color: transparent;
+}

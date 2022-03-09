@@ -1,0 +1,36 @@
+{
+    "manicures": [
+        {
+            "name": "Classic",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quam expedita, amet suscipit error harum vero sit nemo quis, repellat culpa deserunt iure nam.",
+            "price": 20
+        },
+        {
+            "name": "Deluxe",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quam expedita, amet suscipit error harum vero sit nemo quis, repellat culpa deserunt iure nam.",
+            "price": 30
+        },
+        {
+            "name": "Luxury",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quam expedita, amet suscipit error harum vero sit nemo quis, repellat culpa deserunt iure nam.",
+            "price": 40
+        }
+    ],
+    "pedicures": [
+        {
+            "name": "Classic",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quam expedita, amet suscipit error harum vero sit nemo quis, repellat culpa deserunt iure nam.",
+            "price": 30
+        },
+        {
+            "name": "Deluxe",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quam expedita, amet suscipit error harum vero sit nemo quis, repellat culpa deserunt iure nam.",
+            "price": 35
+        },
+        {
+            "name": "Luxury",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quam expedita, amet suscipit error harum vero sit nemo quis, repellat culpa deserunt iure nam.",
+            "price": 50
+        }
+    ]
+}
